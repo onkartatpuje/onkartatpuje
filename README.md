@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onkartatpuje
+- 👋 Hi, I’m Onkar Tatpuje
  
 - 🌱 I’m currently learning Deep Learning...
  
